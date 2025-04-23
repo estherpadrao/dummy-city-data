@@ -1,0 +1,4 @@
+zone_id,lat,lon,type
+W1,-34.6037,-58.3816,warehouse
+R1,-34.61,-58.38,residential
+H1,34.615,-58.385,hospital
